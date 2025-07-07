@@ -9,7 +9,7 @@
 ╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═══╝╚═════╝ 
 ```
 
-Minimal ERC20-based lending protocol built in Solidity with dynamic interest accrual, collateralized borrowing, and liquidation. Built with Foundry. Designed for education, technical interviews, and practical protocol architecture demonstration.
+Minimal ERC20-based lending protocol built in Solidity with dynamic interest accrual, collateralized borrowing, and liquidation. Built with Foundry. Designed for practical protocol architecture demonstration.
 
 ---
 
@@ -118,7 +118,7 @@ This project is **not production-ready**. It lacks:
 - Health factor / safe margin logic
 - Risk engine or governance
 
-Use only for learning, demonstrations, or job interviews.
+Used only for learning and getting experience so i simply did not need to implement most of this stuff
 
 ---
 
